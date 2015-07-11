@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D876CE75-2E85-4372-8748-2949B6D41C9E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DrawerSlideMenu_Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2F2B3E35EABAD376E9D0FE3DD4A7B63AB660544E</key>
+		<string>https://git.oschina.net/JJet/DrawerSlideMenu_Demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DrawerSlideMenu_Demo/DrawerSlideMenu_Demo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2F2B3E35EABAD376E9D0FE3DD4A7B63AB660544E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/JJet/DrawerSlideMenu_Demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2F2B3E35EABAD376E9D0FE3DD4A7B63AB660544E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2F2B3E35EABAD376E9D0FE3DD4A7B63AB660544E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DrawerSlideMenu_Demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
